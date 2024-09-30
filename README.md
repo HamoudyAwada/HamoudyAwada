@@ -12,3 +12,5 @@ My current plan entails my graduation from my program in May of 2026, but before
 
 In my free time, I enjoy playing volleyball, painting, and journalling among other things!
 Something I am particularly enjoying recently is **meeting new people**. I think it's vital to continue to expand your horizons, and meeting new people is one of the best ways to do that!
+
+Thank you for taking the time to get to get to know me. Please ***contact me*** if you have any questions about me, my qualifications, experiences, or any other facet of my life! Take care!
