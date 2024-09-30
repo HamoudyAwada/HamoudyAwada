@@ -9,3 +9,5 @@ My current plan entails my graduation from my program in May of 2026, but before
 2. Expand my skill set
 3. Form meaningful connections
 4. And gain as much experience as I can
+In my free time, I enjoy playing volleyball, painting, and journalling among other things!
+Something I am particularly enjoying recently is **meeting new people**. I think it's vital to continue to expand your horizons and meeting new people is one of the best ways to do that!
