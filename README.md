@@ -4,3 +4,8 @@ I'm studying **Interactive Design** with a major in **UX/UI**.
 I'm currently learning and *cultivating* the skills necessary to become an excellent UX/UI or product designer, although I'm open to **any** and **all** opportunites!
 Currently I'm looking for any chances to expand my portfolio of knowledge and experience!
 If you'd like to contact me to ask any questions or extend an opportunity, you can contact me at Mohamad.Awada04@outlook.com
+My current plan entails my graduation from my program in May of 2026, but before that, I intend to:
+1. Grow my network
+2. Expand my skill set
+3. Form meaningful connections
+4. And gain as much experience as I can
