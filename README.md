@@ -4,8 +4,7 @@ My name is [**Mohamad Awada**](https://www.linkedin.com/in/mohamad-awada-5087831
 I'm studying **Interactive Design** with a major in **UX/UI**.
 I'm currently learning and *cultivating* the skills necessary to become an excellent UX/UI or product designer, although I'm open to **any** and **all** opportunites!
 Currently I'm looking for any chances to expand my portfolio of knowledge and experience!
-If you'd like to contact me to ask any questions or extend an opportunity, you can contact me at Mohamad.Awada04@outlook.com
-My current plan entails my graduation from my program in May of 2026, but before that, I intend to:
+If you'd like to contact me to ask any questions or extend an opportunity, you can contact me at Mohamad.awada@edu.sait.ca My current plan entails my graduation from my program in May of 2026, but before that, I intend to:
 1. Grow my network
 2. Expand my skill set
 3. Form meaningful connections
@@ -14,4 +13,4 @@ My current plan entails my graduation from my program in May of 2026, but before
 In my free time, I enjoy playing volleyball, painting, and journalling among other things!
 Something I am particularly enjoying recently is **meeting new people**. I think it's vital to continue to expand your horizons, and meeting new people is one of the best ways to do that!
 
-Thank you for taking the time to get to get to know me. Please [***contact me***](mailto:Mohamad.Awada04@outlook.com) if you have any questions about me, my qualifications, experiences, or any other facet of my life! Take care!
+Thank you for taking the time to get to get to know me. Please [***contact me***](mailto:Mohamad.awada@edu.sait.ca) if you have any questions about me, my qualifications, experiences, or any other facet of my life! Take care!
