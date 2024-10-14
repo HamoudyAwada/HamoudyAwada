@@ -1,4 +1,4 @@
-# Hello, world! 👋
+# Hey! 👋
 My name is [**Mohamad Awada**](https://www.linkedin.com/in/mohamad-awada-508783177/) and I'm currently a student at the the Southern Alberta Institute of Technology, or [SAIT](https://www.sait.ca/) for short.
 
 I'm studying **Interactive Design** with a major in **UX/UI**.
