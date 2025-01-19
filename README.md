@@ -9,3 +9,5 @@ I'm open to any and all opportunites that come my way and am eager to be able to
 Aside from my studies, I enjoy almost all things creative! I have a [YouTube Channel](https://www.youtube.com/@moetif) which I admittedly don't post on enough to call it a legitimate attempt at self expression yet, but I'm working on that! I've also enjoyed painting in the past and I have particularly come to enjoy painting on glass! I am learning more about areas related to any form of digital media! I am ambitious about a career involoving the creative aspects of myself that will allow me to incorporate what I'm truly passionate about with my work. In the near future, I will be able to say that I have begun putting all of myself into the areas that I want to focus on, and I hope to be able to be proud enough in my own work to start sharing it with the rest of the world!
 
 Thanks for taking the time to learn a little bit about me. Please reach out and say hi. I'd love to connect!
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/moester04/)
