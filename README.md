@@ -10,4 +10,4 @@ Aside from my studies, I enjoy almost all things creative! I have a [YouTube Cha
 
 Thanks for taking the time to learn a little bit about me. Please reach out and say hi. I'd love to connect!
 
-<a href="https://www.instagram.com/moester04/"><img alt="Instagram Logo" src="./Icons/Insta-logo.png" width="3.6%">  <a href="https://www.linkedin.com/in/mohamad-issam-awada/"><img alt="LinkedIn Logo" src="./Icons/LinkedIn-logo.png" width="3.5%">    <a href="https://www.youtube.com/@moetif"><img alt="YouTube Logo" src="./Icons/YouTube-logo.png" width="3.5%">
+<a href="https://www.instagram.com/moester04/"><img alt="Instagram Logo" src="./Icons/Insta-logo.png" width="3.5%">  <a href="https://www.linkedin.com/in/mohamad-issam-awada/"><img alt="LinkedIn Logo" src="./Icons/LinkedIn-logo.png" width="3.5%">    <a href="https://www.youtube.com/@moetif"><img alt="YouTube Logo" src="./Icons/YouTube-logo.png" width="3.5%">
