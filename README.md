@@ -1,7 +1,5 @@
 # Hey, It's Moe!
 
-<link href="style.css" rel="stylesheet"></link>
-
 My name is Mohamad Awada, but I also go by Moe if that floats yor boat, and I'm an aspiring UX/UI designer!
 
 I'm a student at the Southern Alberta Institute of Technology, or [**SAIT**](https://www.sait.ca/) for short. I'm studying [Interactive Design](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-user-experience) with a specialization in UX and UI. I'm very passionate about technology and how we can work toward people centered design. I'm still learning a lot, but I am always actively working to expand my portfolio and am completely open to be a part of any project!
@@ -12,4 +10,4 @@ Aside from my studies, I enjoy almost all things creative! I have a [YouTube Cha
 
 Thanks for taking the time to learn a little bit about me. Please reach out and say hi. I'd love to connect!
 
-<a href="https://www.instagram.com/moester04/"><img alt="Instagram Logo" src="./Icons/Insta-logo.png" width="3.5%" class="icon">  <a href="https://www.linkedin.com/in/mohamad-issam-awada/"><img alt="LinkedIn Logo" src="./Icons/LinkedIn-logo.png" width="3.5%" class="icon">    <a href="https://www.youtube.com/@moetif"><img alt="YouTube Logo" src="./Icons/YouTube-logo.png" width="3.5%" class="icon">
+<a href="https://www.instagram.com/moester04/"><img alt="Instagram Logo" src="./Icons/Insta-logo.png" width="3.6%">  <a href="https://www.linkedin.com/in/mohamad-issam-awada/"><img alt="LinkedIn Logo" src="./Icons/LinkedIn-logo.png" width="3.5%">    <a href="https://www.youtube.com/@moetif"><img alt="YouTube Logo" src="./Icons/YouTube-logo.png" width="3.5%">
